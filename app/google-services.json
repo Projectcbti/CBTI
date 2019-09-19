@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1071620809590",
+    "firebase_url": "https://mindfullapp-f9eea.firebaseio.com",
+    "project_id": "mindfullapp-f9eea",
+    "storage_bucket": "mindfullapp-f9eea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071620809590:android:54f4806e2d1a40df865057",
+        "android_client_info": {
+          "package_name": "com.example.signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071620809590-2acb8uh8kegk93bnm5j8s80u6om8ai3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signup",
+            "certificate_hash": "12316617ab71d10ca7b196a32b4fbc1a05e23a72"
+          }
+        },
+        {
+          "client_id": "1071620809590-q7937suvjn9ir22j3j62lkfekos4rqbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-tZNqpdhjBTHwqfmnpoWuHratJqXWETs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071620809590-q7937suvjn9ir22j3j62lkfekos4rqbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
